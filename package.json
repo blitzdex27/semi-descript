@@ -1,0 +1,27 @@
+{
+  "name": "semi-descript",
+  "version": "1.0.0",
+  "description": "transcribe and reverse transcribe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "client": "cd client && npm start",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitzdex27/semi-descript.git"
+  },
+  "keywords": [
+    "transcribe"
+  ],
+  "author": "dexter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blitzdex27/semi-descript/issues"
+  },
+  "homepage": "https://github.com/blitzdex27/semi-descript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
