@@ -5,10 +5,10 @@ Project title: semi-Descript
 Project description: An application that modifies media (at least with voice) through the transcription
 
 # Features:
-Media such as audio and video can be uploaded.
-Transcribes the media and displays the transcription.
-Words are being highlighted as they are being said in the media.
-The transcription can be edited, and it should also reflect to the media
+* Media such as audio and video can be uploaded.
+* Transcribes the media and displays the transcription.
+* Words are being highlighted as they are being said in the media.
+* The transcription can be edited, and it should also reflect to the media
 
 # Application setup:
 Front-end
