@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/blitzdex27/semi-descript#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
   }
 }
